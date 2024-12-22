@@ -1,5 +1,5 @@
 # cancer-severity-prediction
-Project description
+
 In this data-driven healthcare project, I aim to analyze a comprehensive dataset of cancer
 patients to uncover crucial insights into the factors influencing cancer severity. Through
 meticulous data cleaning, exploratory data analysis, and statistical modeling techniques, I seek
